@@ -1,7 +1,7 @@
 url: https://timsherq.co.za
 enforce_ssl: timsherq.co.za
 plugins:
-   - jekyll-sitemap
+  - jekyll-sitemap
   - jekyll-seo-tag
   webmaster_verifications:
   google: 1234
