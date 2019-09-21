@@ -1,7 +1,2 @@
 url: https://timsherq.co.za
 enforce_ssl: timsherq.co.za
-plugins:
-  - jekyll-gist
-  - jekyll-coffeescript
-  - jekyll-assets
-  - another-jekyll-plugin
