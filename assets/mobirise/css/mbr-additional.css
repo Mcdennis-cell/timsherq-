@@ -933,7 +933,7 @@ section.lazy-placeholder:after {
 }
 .cid-rCGOMT0Uib .mbr-text,
 .cid-rCGOMT0Uib .mbr-section-btn {
-  text-align: left;
+  text-align: center;
   color: #ff3366;
 }
 .cid-rCGOMT0Uib H1 {
@@ -1354,7 +1354,7 @@ section.lazy-placeholder:after {
 .cid-rvx0xQLJ41 {
   padding-top: 30px;
   padding-bottom: 15px;
-  background-image: url("../../../assets/images/hiclipart.com-id-imbkp.gif");
+  background-image: url("../../../assets/images/hiclipart.com-id-imbkp-1.png");
 }
 @media (max-width: 767px) {
   .cid-rvx0xQLJ41 .content {
@@ -1853,7 +1853,7 @@ section.lazy-placeholder:after {
 .cid-rvxhFF66bT {
   padding-top: 135px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/hiclipart.com-id-ilosp.gif");
+  background-image: url("../../../assets/images/hiclipart.com-id-ilosp.png");
 }
 .cid-rvxhFF66bT .mbr-text,
 .cid-rvxhFF66bT .mbr-section-btn {
@@ -1865,7 +1865,7 @@ section.lazy-placeholder:after {
 .cid-rvxz2ry486 {
   padding-top: 60px;
   padding-bottom: 45px;
-  background-image: url("../../../assets/images/industrial-1636403-340-507x340.jpg");
+  background-image: url("../../../assets/images/industrial-1636403-342-507x340.jpeg");
 }
 .cid-rvxz2ry486 .carousel-item {
   justify-content: center;
@@ -1926,7 +1926,7 @@ section.lazy-placeholder:after {
 .cid-rvxl31rzOh {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/hiclipart.com-id-dwwtx-1-1200x800.jpg");
+  background-image: url("../../../assets/images/hiclipart.com-id-dwwtx-1-1200x800.jpeg");
 }
 .cid-rvxl31rzOh .carousel-control {
   background: #000;
@@ -2133,7 +2133,7 @@ section.lazy-placeholder:after {
 .cid-rvxC3VRyhz {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/hiclipart.com-id-hfczn-1386x1184.jpg");
+  background-image: url("../../../assets/images/hiclipart.com-id-hfczn-1-1386x1184.jpeg");
 }
 .cid-rvxC3VRyhz .testimonials-container {
   margin: 0 auto;
@@ -2613,11 +2613,11 @@ section.lazy-placeholder:after {
 .cid-rvxIS8WeVW {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/hiclipart.com-id-itxur.gif");
+  background-image: url("../../../assets/images/hiclipart.com-id-itxur-1.png");
 }
 .cid-rvxIS8WeVW .mbr-section-subtitle {
   color: #232323;
-  text-align: right;
+  text-align: left;
 }
 .cid-rvxIS8WeVW .container-table {
   margin: 0 auto;
@@ -2652,9 +2652,6 @@ section.lazy-placeholder:after {
 }
 .cid-rvxIS8WeVW table td {
   border-top: 1px solid #232323;
-}
-.cid-rvxIS8WeVW table.table {
-  background: #cccccc;
 }
 .cid-rvxIS8WeVW .dataTables_filter {
   text-align: right;
@@ -2692,12 +2689,12 @@ section.lazy-placeholder:after {
 }
 .cid-rvxIS8WeVW .mbr-section-title {
   color: #232323;
-  text-align: right;
+  text-align: left;
 }
 .cid-rvxRi9S8cq {
   padding-top: 60px;
   padding-bottom: 105px;
-  background-image: url("../../../assets/images/firefighters-1717916-1920-1920x1277.jpg");
+  background-image: url("../../../assets/images/firefighters-1717916-1920-1920x1277.jpeg");
 }
 .cid-rvxRi9S8cq .title {
   margin-bottom: 2rem;
@@ -2723,7 +2720,7 @@ section.lazy-placeholder:after {
 .cid-rvyhCdlvC7 {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/hiclipart.com-id-mjqii-2-1476x658.png");
+  background-image: url("../../../assets/images/hiclipart.com-id-ybngh.png");
 }
 @media (max-width: 767px) {
   .cid-rvyhCdlvC7 .media-wrap {
@@ -3197,7 +3194,7 @@ section.lazy-placeholder:after {
 .cid-rvy5oN9nMz {
   padding-top: 15px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/ddd.gif");
+  background-image: url("../../../assets/images/ddd-5.png");
 }
 .cid-rvy5oN9nMz .mbr-figure {
   margin: 0 auto;
@@ -3232,6 +3229,9 @@ section.lazy-placeholder:after {
   color: #767676;
 }
 .cid-rvycNAlYmY .mbr-section-subtitle DIV {
+  text-align: left;
+}
+.cid-rvycNAlYmY H2 {
   text-align: left;
 }
 .cid-rvwoV4BhGm .navbar {
@@ -3644,7 +3644,7 @@ section.lazy-placeholder:after {
 .cid-rvxXBHKMUj {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/consulting-1292328-1920-1920x1357.jpg");
+  background-image: url("../../../assets/images/consulting-1292328-1920-1920x1357.jpeg");
 }
 .cid-rvxXBHKMUj .mbr-figure {
   margin: 0 auto;
@@ -4081,7 +4081,7 @@ section.lazy-placeholder:after {
 .cid-rvy4yYU1mJ {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/hiclipart.com-id-bofau-900x450.png");
+  background-image: url("../../../assets/images/hiclipart.com-id-bofau-3-900x450.png");
 }
 .cid-rvy4yYU1mJ .title {
   padding-bottom: 2.5rem;
