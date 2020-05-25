@@ -2,11 +2,13 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Untitled Page</title>
-<meta name="description" content="TIM SHERQ CONSULTANCY: Beyond Health and Safety Compliance">
-<meta name="keywords" content="TIM SHERQ CONSULTANCY, TIM SHERQ, Health & Safety Training, Health & Safety Consulting; Health and Safety auditing, health and safety files ">
+<title>AUDITING :Tim SHERQ</title>
+<meta name="description" content="TIM SHERQ CONSULTANCY:  can provide an audit solution to assist your organisation.
+
+">
+<meta name="keywords" content="AUDITING, HEALTH AND SAFETY  AUDIT, TIM SHERQ CONSULTANCY, TIM SHERQ, Health & Safety Training, Health & Safety Consulting; Health and Safety auditing, health and safety files ">
 <meta name="author" content="Dennis Runyowa">
-<meta name="generator" content="https://www.timsherq.co.za/index.html">
+<meta name="generator" content="https://www.timsherq.co.za/auditing.html">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link href="font-awesome.min.css" rel="stylesheet">
 <link href="tim_sherq.css" rel="stylesheet">
@@ -35,10 +37,10 @@ $(document).ready(function()
       event.preventDefault();
       $('html, body').stop().animate({ scrollTop: $('#wb_LayoutGrid7').offset().top }, 600, 'easeOutCirc');
    });
-   $("a[href*='#LayoutGrid6']").click(function(event)
+   $("a[href*='#LayoutGrid2']").click(function(event)
    {
       event.preventDefault();
-      $('html, body').stop().animate({ scrollTop: $('#wb_LayoutGrid6').offset().top }, 600, 'easeOutCirc');
+      $('html, body').stop().animate({ scrollTop: $('#wb_LayoutGrid2').offset().top }, 600, 'easeOutCirc');
    });
    $("#Carousel1").bootstrapcarousel({interval:4000, pause: false});
    $("a[href*='#section1']").click(function(event)
@@ -51,11 +53,11 @@ $(document).ready(function()
       event.preventDefault();
       $('html, body').stop().animate({ scrollTop: $('#FlexContainer1').offset().top }, 600, 'easeOutBack');
    });
-   $("#wb_ResponsiveMenu2 ul li a").click(function(event)
-   {
-      $("#wb_ResponsiveMenu2 input").prop("checked", false);
-   });
    searchParseURL('SiteSearch1');
+   $("#wb_ResponsiveMenu1 ul li a").click(function(event)
+   {
+      $("#wb_ResponsiveMenu1 input").prop("checked", false);
+   });
 });
 </script>
 </head>
@@ -83,37 +85,37 @@ $(document).ready(function()
 </div>
 </form>
 </div>
-<div id="wb_LayoutGrid6">
-<div id="LayoutGrid6">
+<div id="wb_LayoutGrid2">
+<div id="LayoutGrid2">
 <div class="row">
 <div class="col-1">
-<div id="wb_ResponsiveMenu2" style="display:inline-block;width:880px;height:69px;z-index:6;">
-<label class="toggle" for="ResponsiveMenu2-submenu" id="ResponsiveMenu2-title">Menu<span id="ResponsiveMenu2-icon"><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span></span></label>
-<input type="checkbox" id="ResponsiveMenu2-submenu">
-<ul class="ResponsiveMenu2" id="ResponsiveMenu2" role="menu">
+<div id="wb_ResponsiveMenu1" style="display:inline-block;width:920px;height:69px;z-index:6;">
+<label class="toggle" for="ResponsiveMenu1-submenu" id="ResponsiveMenu1-title">Menu<span id="ResponsiveMenu1-icon"><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span></span></label>
+<input type="checkbox" id="ResponsiveMenu1-submenu">
+<ul class="ResponsiveMenu1" id="ResponsiveMenu1" role="menu">
 <li><a role="menuitem" href="./index.html"><i class="fa fa-home fa-2x">&nbsp;</i><br>Home</a></li>
 <li>
-<label for="ResponsiveMenu2-submenu-0" class="toggle"><i class="fa fa-user fa-2x">&nbsp;</i>About&nbsp;Us<b class="arrow-down"></b></label>
+<label for="ResponsiveMenu1-submenu-0" class="toggle"><i class="fa fa-user fa-2x">&nbsp;</i>About&nbsp;Us<b class="arrow-down"></b></label>
 <a role="menuitem" href="./about-us.html"><i class="fa fa-user fa-2x">&nbsp;</i><br>About&nbsp;Us<b class="arrow-down"></b></a>
-<input type="checkbox" id="ResponsiveMenu2-submenu-0">
+<input type="checkbox" id="ResponsiveMenu1-submenu-0">
 <ul role="menu">
 <li><a role="menuitem" href="./about-us.html#LayoutGrid1">Who&nbsp;is&nbsp;Tim&nbsp;SHERQ&nbsp;Consultancy</a></li>
-<li><a role="menuitem" href="./about-us.html#LayoutGrid3">Our&nbsp;Team</a></li>
+<li><a role="menuitem" href="./about-us.html#Bookmark1">Our&nbsp;Team</a></li>
 <li><a role="menuitem" href="./about-us.html#reviews">Clients</a></li>
 <li><a role="menuitem" href="./about-us.html#LayoutGrid2">Testimonials</a></li>
 <li><a role="menuitem" href="#">Industries&nbsp;</a></li>
 </ul>
 </li>
 <li>
-<label for="ResponsiveMenu2-submenu-1" class="toggle"><i class="fa fa-graduation-cap fa-2x">&nbsp;</i>Training<b class="arrow-down"></b></label>
+<label for="ResponsiveMenu1-submenu-1" class="toggle"><i class="fa fa-graduation-cap fa-2x">&nbsp;</i>Training<b class="arrow-down"></b></label>
 <a role="menuitem" href="./training.html"><i class="fa fa-graduation-cap fa-2x">&nbsp;</i><br>Training<b class="arrow-down"></b></a>
-<input type="checkbox" id="ResponsiveMenu2-submenu-1">
+<input type="checkbox" id="ResponsiveMenu1-submenu-1">
 <ul role="menu">
 <li><a role="menuitem" href="./training.html">Training&nbsp;&nbsp;&nbsp;Requirements</a></li>
 <li>
-<label for="ResponsiveMenu2-submenu-2" class="toggle">Construction&nbsp;Site&nbsp;Safety&nbsp;Training<b class="arrow-down"></b></label>
+<label for="ResponsiveMenu1-submenu-2" class="toggle">Construction&nbsp;Site&nbsp;Safety&nbsp;Training<b class="arrow-down"></b></label>
 <a role="menuitem" href="./Construction-Site-Safety-Training.html">Construction&nbsp;Site&nbsp;Safety&nbsp;Training<b class="arrow-left"></b></a>
-<input type="checkbox" id="ResponsiveMenu2-submenu-2">
+<input type="checkbox" id="ResponsiveMenu1-submenu-2">
 <ul role="menu">
 <li><a role="menuitem" href="./Construction-Regulations-2014-.html">Construction&nbsp;Regulation&nbsp;2014</a></li>
 <li><a role="menuitem" href="./Construction-Supervisor.html">Construction&nbsp;Supervisor</a></li>
@@ -122,9 +124,9 @@ $(document).ready(function()
 </ul>
 </li>
 <li>
-<label for="ResponsiveMenu2-submenu-3" class="toggle">Crane&nbsp;Operations&nbsp;Training<b class="arrow-down"></b></label>
+<label for="ResponsiveMenu1-submenu-3" class="toggle">Crane&nbsp;Operations&nbsp;Training<b class="arrow-down"></b></label>
 <a role="menuitem" href="./Crane-Operations-Training.html">Crane&nbsp;Operations&nbsp;Training<b class="arrow-left"></b></a>
-<input type="checkbox" id="ResponsiveMenu2-submenu-3">
+<input type="checkbox" id="ResponsiveMenu1-submenu-3">
 <ul role="menu">
 <li><a role="menuitem" href="./Mobile-Crane.html">Mobile&nbsp;Crane&nbsp;</a></li>
 <li><a role="menuitem" href="./Mountained-Crane.html">Mountained&nbsp;Crane&nbsp;</a></li>
@@ -132,9 +134,9 @@ $(document).ready(function()
 </ul>
 </li>
 <li>
-<label for="ResponsiveMenu2-submenu-4" class="toggle">Health&nbsp;&amp;&nbsp;Safety&nbsp;Training<b class="arrow-down"></b></label>
+<label for="ResponsiveMenu1-submenu-4" class="toggle">Health&nbsp;&amp;&nbsp;Safety&nbsp;Training<b class="arrow-down"></b></label>
 <a role="menuitem" href="./Health-&-Safety-Training.html">Health&nbsp;&amp;&nbsp;Safety&nbsp;Training<b class="arrow-left"></b></a>
-<input type="checkbox" id="ResponsiveMenu2-submenu-4">
+<input type="checkbox" id="ResponsiveMenu1-submenu-4">
 <ul role="menu">
 <li><a role="menuitem" href="./Basic-Fire-Fighting.html">Basic&nbsp;Fire&nbsp;Fighting</a></li>
 <li><a role="menuitem" href="./incident-investigations.html">Incident&nbsp;investigations</a></li>
@@ -150,9 +152,9 @@ $(document).ready(function()
 </ul>
 </li>
 <li>
-<label for="ResponsiveMenu2-submenu-5" class="toggle">Landscape&nbsp;Tools&nbsp;Training<b class="arrow-down"></b></label>
+<label for="ResponsiveMenu1-submenu-5" class="toggle">Landscape&nbsp;Tools&nbsp;Training<b class="arrow-down"></b></label>
 <a role="menuitem" href="./Landscape-Tools-Training.html">Landscape&nbsp;Tools&nbsp;Training<b class="arrow-left"></b></a>
-<input type="checkbox" id="ResponsiveMenu2-submenu-5">
+<input type="checkbox" id="ResponsiveMenu1-submenu-5">
 <ul role="menu">
 <li><a role="menuitem" href="./brush-cutters.html">&nbsp;Brush&nbsp;Cutters</a></li>
 <li><a role="menuitem" href="./chainsaws.html">Chainsaws</a></li>
@@ -160,18 +162,18 @@ $(document).ready(function()
 </ul>
 </li>
 <li>
-<label for="ResponsiveMenu2-submenu-6" class="toggle">Lift&nbsp;Truck&nbsp;Operations&nbsp;Training<b class="arrow-down"></b></label>
+<label for="ResponsiveMenu1-submenu-6" class="toggle">Lift&nbsp;Truck&nbsp;Operations&nbsp;Training<b class="arrow-down"></b></label>
 <a role="menuitem" href="./Lift-Truck-Operations-Training.html">Lift&nbsp;Truck&nbsp;Operations&nbsp;Training<b class="arrow-left"></b></a>
-<input type="checkbox" id="ResponsiveMenu2-submenu-6">
+<input type="checkbox" id="ResponsiveMenu1-submenu-6">
 <ul role="menu">
 <li><a role="menuitem" href="./reachtruck.html">Reach&nbsp;Truck</a></li>
 <li><a role="menuitem" href="./Fork-Lift.html">Fork&nbsp;Lift</a></li>
 </ul>
 </li>
 <li>
-<label for="ResponsiveMenu2-submenu-7" class="toggle">ScaffoldingTraining<b class="arrow-down"></b></label>
+<label for="ResponsiveMenu1-submenu-7" class="toggle">ScaffoldingTraining<b class="arrow-down"></b></label>
 <a role="menuitem" href="./ScaffoldingTrainings.html">ScaffoldingTraining<b class="arrow-left"></b></a>
-<input type="checkbox" id="ResponsiveMenu2-submenu-7">
+<input type="checkbox" id="ResponsiveMenu1-submenu-7">
 <ul role="menu">
 <li><a role="menuitem" href="./Scaffold-Inspection-&-Safety.html">Scaffold&nbsp;Inspection&nbsp;&amp;&nbsp;Safety&nbsp;</a></li>
 <li><a role="menuitem" href="./Scaffold-Team-Leadership.html">Scaffold&nbsp;Team&nbsp;Leadership&nbsp;</a></li>
@@ -183,27 +185,27 @@ $(document).ready(function()
 </ul>
 </li>
 <li>
-<label for="ResponsiveMenu2-submenu-8" class="toggle"><i class="fa fa-check-circle-o fa-2x">&nbsp;</i>Auditing<b class="arrow-down"></b></label>
+<label for="ResponsiveMenu1-submenu-8" class="toggle"><i class="fa fa-check-circle-o fa-2x">&nbsp;</i>Auditing<b class="arrow-down"></b></label>
 <a role="menuitem" href="./auditing.php"><i class="fa fa-check-circle-o fa-2x">&nbsp;</i><br>Auditing<b class="arrow-down"></b></a>
-<input type="checkbox" id="ResponsiveMenu2-submenu-8">
+<input type="checkbox" id="ResponsiveMenu1-submenu-8">
 <ul role="menu">
 <li><a role="menuitem" href="./Environmental-Audit.html" title="Environmental Audit">Environmental&nbsp;Audit</a></li>
 <li><a role="menuitem" href="./Construction-Safety-Audit-.html" title="Construction Safety Audit">Construction&nbsp;Safety&nbsp;Audit</a></li>
 <li><a role="menuitem" href="./SHERQ-Management-Systems-Audits.html" title="SHERQ Management Systems Audits">SHERQ&nbsp;Management&nbsp;Systems&nbsp;Audits</a></li>
 <li><a role="menuitem" href="./Legal-Compliance-Audits’.html" title="Legal Compliance Audits">Legal&nbsp;Compliance&nbsp;Audits</a></li>
-<li><a role="menuitem" href="#" title="Gap Analysis Audit">Gap&nbsp;Analysis&nbsp;Audit</a></li>
-<li><a role="menuitem" href="#" title="Social Audit">Social&nbsp;Audit</a></li>
+<li><a role="menuitem" href="./Gap-Analysis-Audit.html" title="Gap Analysis Audit">Gap&nbsp;Analysis&nbsp;Audit</a></li>
+<li><a role="menuitem" href="./Social-Audit.html" title="Social Audit">Social&nbsp;Audit</a></li>
 </ul>
 </li>
 <li>
-<label for="ResponsiveMenu2-submenu-9" class="toggle"><i class="fa fa-binoculars fa-2x">&nbsp;</i>Consulting<b class="arrow-down"></b></label>
+<label for="ResponsiveMenu1-submenu-9" class="toggle"><i class="fa fa-binoculars fa-2x">&nbsp;</i>Consulting<b class="arrow-down"></b></label>
 <a role="menuitem" href="./consulting.html"><i class="fa fa-binoculars fa-2x">&nbsp;</i><br>Consulting<b class="arrow-down"></b></a>
-<input type="checkbox" id="ResponsiveMenu2-submenu-9">
+<input type="checkbox" id="ResponsiveMenu1-submenu-9">
 <ul role="menu">
 <li>
-<label for="ResponsiveMenu2-submenu-10" class="toggle">Environmental&nbsp;Consulting<b class="arrow-down"></b></label>
+<label for="ResponsiveMenu1-submenu-10" class="toggle">Environmental&nbsp;Consulting<b class="arrow-down"></b></label>
 <a role="menuitem" href="#" title="Environmental Consulting">Environmental&nbsp;Consulting<b class="arrow-left"></b></a>
-<input type="checkbox" id="ResponsiveMenu2-submenu-10">
+<input type="checkbox" id="ResponsiveMenu1-submenu-10">
 <ul role="menu">
 <li><a role="menuitem" href="./Environmental-Impact-Assessments.html" title="Environmental-Impact-Assessments">Environmental&nbsp;Impact&nbsp;Assessment</a></li>
 <li><a role="menuitem" href="./Waste-Management-.html" title="Waste-Management-">Waste&nbsp;Management</a></li>
@@ -292,25 +294,25 @@ $(document).ready(function()
 </div>
 <div id="wb_BootstrapCard2" style="display:flex;text-align:center;z-index:11;">
    <div id="BootstrapCard2-card-body">
-      <img id="BootstrapCard2-card-item0" src="images/55285313_6117780830178_2142187639791419392_n.png" alt="Tim SHERQ" title="Tim SHERQ Construction Audit">
+      <a href="./Construction-Safety-Audit-.html"><img id="BootstrapCard2-card-item0" src="images/55285313_6117780830178_2142187639791419392_n.png" alt="Tim SHERQ" title="Tim SHERQ Construction Audit"></a>
       <div id="BootstrapCard2-card-item1">Construction Safety Audit </div>
-      <div id="BootstrapCard2-card-item2"><i class="fa fa-info-circle"></i>Click the icon to learn more</div>
+      <div id="BootstrapCard2-card-item2"><a href="./Construction-Safety-Audit-.html"><i class="fa fa-info-circle"></i>Click the icon to learn more</a></div>
    </div>
 
 </div>
 <div id="wb_Card1" style="display:flex;text-align:center;z-index:12;">
    <div id="Card1-card-body">
-      <img id="Card1-card-item0" src="images/54590940_6117782408778_2487120552142045184_n.png" alt="Tim SHERQ" title="Tim SHERQ Environmental Audit">
+      <a href="./Environmental-Audit.html"><img id="Card1-card-item0" src="images/54590940_6117782408778_2487120552142045184_n.png" alt="Tim SHERQ" title="Tim SHERQ Environmental Audit"></a>
       <div id="Card1-card-item1">Environmental Audit</div>
-      <div id="Card1-card-item2"><i class="fa fa-info-circle"></i>Click the icon to learn more</div>
+      <div id="Card1-card-item2"><a href="./Environmental-Audit.html"><i class="fa fa-info-circle"></i>Click the icon to learn more</a></div>
    </div>
 
 </div>
 <div id="wb_Card2" style="display:flex;text-align:center;z-index:13;">
    <div id="Card2-card-body">
-      <img id="Card2-card-item0" src="images/social-complaince.jpg" alt="Tim SHERQ" title="Tim SHERQ Social Audit">
+      <a href="./Social-Audit.html"><img id="Card2-card-item0" src="images/social-complaince.jpg" alt="Tim SHERQ" title="Tim SHERQ Social Audit"></a>
       <div id="Card2-card-item1">Social Audit</div>
-      <div id="Card2-card-item2"><i class="fa fa-info-circle"></i>Click the icon to learn more</div>
+      <div id="Card2-card-item2"><a href="./Social-Audit.html"><i class="fa fa-info-circle"></i>Click the icon to learn more</a></div>
    </div>
 
 </div>
@@ -320,25 +322,25 @@ $(document).ready(function()
 <div id="FlexContainer1">
 <div id="wb_Card5" style="display:flex;text-align:center;z-index:14;">
    <div id="Card5-card-body">
-      <img id="Card5-card-item0" src="images/Picture1.png" alt="Tim SHERQ" title="Tim SHERQ Construction Audit">
+      <a href="./Legal-Compliance-Audits’.html"><img id="Card5-card-item0" src="images/Picture1.png" alt="Tim SHERQ" title="Tim SHERQ Construction Audit"></a>
       <div id="Card5-card-item1">Legal Compliance Audits’</div>
-      <div id="Card5-card-item2"><i class="fa fa-info-circle"></i>Click the icon to learn more</div>
+      <div id="Card5-card-item2"><a href="./Legal-Compliance-Audits’.html"><i class="fa fa-info-circle"></i>Click the icon to learn more</a></div>
    </div>
 
 </div>
 <div id="wb_Card7" style="display:flex;text-align:center;z-index:15;">
    <div id="Card7-card-body">
-      <img id="Card7-card-item0" src="images/bigstock-happy-african-american-oil-che-47413330.jpg" alt="Tim SHERQ" title="Tim SHERQ Environmental Audit">
+      <a href="./Gap-Analysis-Audit.html"><img id="Card7-card-item0" src="images/bigstock-happy-african-american-oil-che-47413330.jpg" alt="Tim SHERQ" title="Gap Analysis Audit"></a>
       <div id="Card7-card-item1">Gap Analysis Audit</div>
-      <div id="Card7-card-item2"><i class="fa fa-info-circle"></i>Click the icon to learn more</div>
+      <div id="Card7-card-item2"><a href="./Gap-Analysis-Audit.html"><i class="fa fa-info-circle"></i>Click the icon to learn more</a></div>
    </div>
 
 </div>
 <div id="wb_Card8" style="display:flex;text-align:center;z-index:16;">
    <div id="Card8-card-body">
-      <img id="Card8-card-item0" src="images/Mine-Surveying.png" alt="Tim SHERQ" title="Tim SHERQ Social Audit">
-      <div id="Card8-card-item1">Management Systems Audits </div>
-      <div id="Card8-card-item2"><i class="fa fa-info-circle"></i>Click the icon to learn more</div>
+      <a href="./SHERQ-Management-Systems-Audits.html"><img id="Card8-card-item0" src="images/Mine-Surveying.png" alt="Tim SHERQ" title="SHERQ Management Systems Audits "></a>
+      <div id="Card8-card-item1">SHERQ Management Systems Audits </div>
+      <div id="Card8-card-item2"><a href="./SHERQ-Management-Systems-Audits.html"><i class="fa fa-info-circle"></i>Click the icon to learn more</a></div>
    </div>
 
 </div>

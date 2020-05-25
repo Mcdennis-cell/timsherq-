@@ -1577,6 +1577,61 @@ body
    background-color: #EDE9E1;
    background-image: none;
 }
+#wb_LayoutGrid7
+{
+   visibility: visible;
+   display: table;
+   font-size: 8px;
+   font-family: Arial;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   background-color: rgba(251,252,136,0.94);
+   background-image: none;
+}
+#wb_LayoutGrid7
+{
+   margin-top: 0px;
+   margin-bottom: 0px;
+}
+#LayoutGrid7
+{
+   padding: 5px 5px 5px 5px;
+}
+#LayoutGrid7 .row
+{
+   margin-right: -5px;
+   margin-left: -5px;
+}
+#LayoutGrid7 > .row > .col-1, #LayoutGrid7 > .row > .col-2, #LayoutGrid7 > .row > .col-3
+{
+   padding-right: 5px;
+   padding-left: 5px;
+}
+#LayoutGrid7 > .row > .col-1
+{
+   display: block;
+   width: 100%;
+   border: 0px solid #FFFFFF;
+   border-radius: 0px;
+   text-align: left;
+}
+#LayoutGrid7 > .row > .col-2
+{
+   display: block;
+   width: 100%;
+   border: 0px solid #FFFFFF;
+   border-radius: 0px;
+   text-align: left;
+}
+#LayoutGrid7 > .row > .col-3
+{
+   display: block;
+   width: 100%;
+   border: 0px solid #FFFFFF;
+   border-radius: 0px;
+   text-align: left;
+}
 #wb_LayoutGrid6
 {
    visibility: visible;
@@ -2301,5 +2356,127 @@ body
 #Editbox3
 {
    line-height: -8px;
+}
+#wb_Image7
+{
+   width: 45px;
+   height: 45px;
+   visibility: visible;
+   display: inline-block;
+   margin: 0;
+   padding: 0;
+}
+#Image7
+{
+   width: 45px;
+   height: 45px;
+}
+#Button1
+{
+   width: 270px;
+   height: 40px;
+   visibility: visible;
+   display: inline-block;
+   color: #33C715;
+   font-size: 19px;
+   font-family: Arial;
+   font-weight: bold;
+   font-style: normal;
+   text-decoration: none;
+   background-color: transparent;
+   background-image: none;
+   margin: 0;
+}
+#Button1
+{
+   line-height: 40px;
+}
+#Button8
+{
+   width: 20px;
+   height: 25px;
+   visibility: visible;
+   display: inline-block;
+   color: #FFFFFF;
+   font-size: 13px;
+   font-family: Arial;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   background-color: transparent;
+   background-image: none;
+   margin: 0;
+}
+#wb_Heading4
+{
+   width: 285px;
+   height: 25px;
+   visibility: visible;
+   display: inline-block;
+   color: #33C715;
+   font-size: 16px;
+   font-family: Arial;
+   font-weight: bold;
+   font-style: normal;
+   text-decoration: none;
+   background-color: transparent;
+   background-image: none;
+   margin: 0;
+   padding: 0;
+}
+#wb_Heading4
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   text-align: left;
+}
+#Heading4
+{
+   color: #33C715;
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 16px;
+}
+#SiteSearch1
+{
+   width: 100%;
+   height: 26px;
+   visibility: visible;
+   display: block;
+   color: #000000;
+   font-size: 13px;
+   font-family: Arial;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   background-color: #FFFFFF;
+   background-image: none;
+   border-radius: 4px;
+   margin: 0;
+   padding: 4px 4px 4px 4px;
+   text-align: left;
+}
+#SiteSearch1
+{
+   width: 310px;
+   height: 26px;
+}
+#Button6
+{
+   width: 96px;
+   height: 25px;
+   visibility: visible;
+   display: inline-block;
+   color: #FFFFFF;
+   font-size: 13px;
+   font-family: Arial;
+   font-weight: bold;
+   font-style: normal;
+   text-decoration: none;
+   background-color: #33C715;
+   background-image: none;
+   border-radius: 4px;
+   margin: 0;
 }
 }
